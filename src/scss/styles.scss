@@ -1,5 +1,9 @@
 // Import all of Bootstrap's CSS
-//$body-bg: #000;
-//$body-color: #ffffff;
+$primary:       #05F2F2;
+$secondary:     #AFF24B;
+$success:       #0593A2;
+$info:          #FF7A48;
+$warning:       #E3371E;
+$danger:        #F23DD4;
 
 @import "bootstrap/scss/bootstrap";
